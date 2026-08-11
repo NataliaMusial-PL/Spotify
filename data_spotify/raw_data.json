@@ -1,0 +1,198 @@
+{
+    "href": "https://api.spotify.com/v1/playlists/70hZkx6IlOfIdpywgNkp11/items?offset=0&limit=2&additional_types=track",
+    "items": [
+        {
+            "added_at": "2020-01-27T12:09:59Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/h3d3d4lpm4tczl2pvwjc6d665"
+                },
+                "href": "https://api.spotify.com/v1/users/h3d3d4lpm4tczl2pvwjc6d665",
+                "id": "h3d3d4lpm4tczl2pvwjc6d665",
+                "type": "user",
+                "uri": "spotify:user:h3d3d4lpm4tczl2pvwjc6d665"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "single",
+                    "href": "https://api.spotify.com/v1/albums/6suvEwqAutnxXTQzKpYxKC",
+                    "id": "6suvEwqAutnxXTQzKpYxKC",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273de6d5675a6be15b933ff0d03",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02de6d5675a6be15b933ff0d03",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851de6d5675a6be15b933ff0d03",
+                            "width": 64
+                        }
+                    ],
+                    "name": "The Rift EP",
+                    "release_date": "2013-03-04",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:6suvEwqAutnxXTQzKpYxKC",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/62eUYCcPFNPJOkZnX09GRc"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/62eUYCcPFNPJOkZnX09GRc",
+                            "id": "62eUYCcPFNPJOkZnX09GRc",
+                            "name": "BOOT",
+                            "type": "artist",
+                            "uri": "spotify:artist:62eUYCcPFNPJOkZnX09GRc"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6suvEwqAutnxXTQzKpYxKC"
+                    },
+                    "total_tracks": 4
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/62eUYCcPFNPJOkZnX09GRc"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/62eUYCcPFNPJOkZnX09GRc",
+                        "id": "62eUYCcPFNPJOkZnX09GRc",
+                        "name": "BOOT",
+                        "type": "artist",
+                        "uri": "spotify:artist:62eUYCcPFNPJOkZnX09GRc"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 2,
+                "duration_ms": 304549,
+                "external_ids": {
+                    "isrc": "FR6V81580947"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dnqK3rKwiicIj1N6JOgID"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dnqK3rKwiicIj1N6JOgID",
+                "id": "3dnqK3rKwiicIj1N6JOgID",
+                "name": "Blood Moon",
+                "uri": "spotify:track:3dnqK3rKwiicIj1N6JOgID",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        },
+        {
+            "added_at": "2020-01-27T12:10:11Z",
+            "added_by": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/h3d3d4lpm4tczl2pvwjc6d665"
+                },
+                "href": "https://api.spotify.com/v1/users/h3d3d4lpm4tczl2pvwjc6d665",
+                "id": "h3d3d4lpm4tczl2pvwjc6d665",
+                "type": "user",
+                "uri": "spotify:user:h3d3d4lpm4tczl2pvwjc6d665"
+            },
+            "is_local": false,
+            "primary_color": null,
+            "item": {
+                "is_playable": true,
+                "explicit": false,
+                "type": "track",
+                "episode": false,
+                "track": true,
+                "album": {
+                    "is_playable": true,
+                    "type": "album",
+                    "album_type": "single",
+                    "href": "https://api.spotify.com/v1/albums/0NVNOlUlltRY3U2hW3TUgb",
+                    "id": "0NVNOlUlltRY3U2hW3TUgb",
+                    "images": [
+                        {
+                            "height": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2736d0ab6c74c28b3345546aa42",
+                            "width": 640
+                        },
+                        {
+                            "height": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e026d0ab6c74c28b3345546aa42",
+                            "width": 300
+                        },
+                        {
+                            "height": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048516d0ab6c74c28b3345546aa42",
+                            "width": 64
+                        }
+                    ],
+                    "name": "Enigma",
+                    "release_date": "2016-03-18",
+                    "release_date_precision": "day",
+                    "uri": "spotify:album:0NVNOlUlltRY3U2hW3TUgb",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0OirGRY55NlQeqOHKhvpbm",
+                            "id": "0OirGRY55NlQeqOHKhvpbm",
+                            "name": "Jordan Comolli",
+                            "type": "artist",
+                            "uri": "spotify:artist:0OirGRY55NlQeqOHKhvpbm"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/0NVNOlUlltRY3U2hW3TUgb"
+                    },
+                    "total_tracks": 1
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0OirGRY55NlQeqOHKhvpbm"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0OirGRY55NlQeqOHKhvpbm",
+                        "id": "0OirGRY55NlQeqOHKhvpbm",
+                        "name": "Jordan Comolli",
+                        "type": "artist",
+                        "uri": "spotify:artist:0OirGRY55NlQeqOHKhvpbm"
+                    }
+                ],
+                "disc_number": 1,
+                "track_number": 1,
+                "duration_ms": 187569,
+                "external_ids": {
+                    "isrc": "UK7GJ1500632"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4En9CdcGz7zDay9thG0oUi"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4En9CdcGz7zDay9thG0oUi",
+                "id": "4En9CdcGz7zDay9thG0oUi",
+                "name": "Enigma",
+                "uri": "spotify:track:4En9CdcGz7zDay9thG0oUi",
+                "is_local": false
+            },
+            "video_thumbnail": {
+                "url": null
+            }
+        }
+    ],
+    "limit": 2,
+    "next": "https://api.spotify.com/v1/playlists/70hZkx6IlOfIdpywgNkp11/items?offset=2&limit=2&additional_types=track",
+    "offset": 0,
+    "previous": null,
+    "total": 358
+}
